@@ -1,7 +1,7 @@
 # Hand Tracking with OpenCV & MediaPipe
 
 <div style="text-align: center;">
-    <img src="images/banner.jpg" style="width:600px;height:350px;">
+    <img src="images/banner.jpg" style="width:950px;height:450px;">
 </div>
 
 ## Project Overview
